@@ -1,5 +1,3 @@
-"use client";
-
 import Animation from "@/components/TypeAnimation";
 import Image from "next/image";
 import Link from "next/link";
